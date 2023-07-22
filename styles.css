@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(245, 245, 220);
+}
+
+
+h1{
+    text-align: center;
+}
+.titulo{
+    text-decoration:wavy;
+    color:rgb(0, 0, 0);
+    text-align: center;
+    font-size:xx-large;
+    font-family:cursive;
+}
+
+#centrar{
+    color:black;
+    text-align: center;
+}
+
+#carac{
+    background-color: blanchedalmond;
+}
+
+.info{
+    text-align: justify;
+    font-size: x-large;
+    font-family: cursive;
+}    
+.tb{
+    background-color: antiquewhite;
+    border-color: brown;
+    border-collapse:unset;
+}
+td{
+    font-size: larger;
+}
